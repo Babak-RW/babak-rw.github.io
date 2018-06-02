@@ -1779,6 +1779,26 @@ body {
   text-align: right;
   color: #55b4d4;
 }
+.cid-qTO8cersVX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+@media (min-width: 992px) {
+  .cid-qTO8cersVX .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qTO8cersVX .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qTO8cersVX .mbr-text {
+    text-align: center;
+  }
+}
 .cid-qTNYyh6nVg {
   padding-top: 30px;
   padding-bottom: 15px;
